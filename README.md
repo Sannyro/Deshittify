@@ -11,3 +11,6 @@ Deshittify are css styles for Discord, reverting some of the changes from the vi
     - Default Dark theme
 - Onyx
     - Default Onyx theme
+
+## Contributions
+Feel free to contribute by submitting pull requests or opening issues.
