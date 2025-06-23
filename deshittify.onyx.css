@@ -55,3 +55,8 @@
 .icon__6e9f8, .childWrapper__6e9f8 {
     border-radius: 50% !important;
 }
+
+/* Background of users in Active Now and their activity in DMs */
+.itemCard__7e549, .overlay_c0bea0 {
+    background: oklab(0.18 0 0) !important;
+}
